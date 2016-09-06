@@ -17,6 +17,7 @@ comments: false
 
 {% capture images %}
     http://www.cevinjohnny.top/assets/img/01.jpg
+    http://www.cevinjohnny.top/assets/img/02.jpg
 {% endcapture %}
 {% include gallery images=images caption="The back of a code farmer" cols=2 %}
       
