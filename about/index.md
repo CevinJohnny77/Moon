@@ -1,37 +1,23 @@
 ---
 layout: page
-title: Something About the Theme
+title: About the Blog
 tags: [about]
 date: 2016-09-06
 comments: false
 ---
     
-<center><a href="http://www.cevinjohnny.top/"><b>Moon</b></a> is a minimal, one column jekyll theme.</center>
+<center><a href="http://www.cevinjohnny.top/"><b>CevinJohnny's Blog</b></a> is somewhere about Life、Technology、Gallery...</center>
 
-## Features
-* Minimal, you can focus on your content
-* Responsive
-* Disqus integration
-* Syntax highlighting
-* Optional post image
-* Social icons
-* Page for sharing projects
-* Optional background image
-* Simple navigation menu
-* MathJax support
+## Some Tips
+* 记录生活	
+* 技术分享
+* 照片墙
 
-## Preview
+## Some Pics
 
 {% capture images %}
-    https://cloud.githubusercontent.com/assets/754514/14509720/61c61058-01d6-11e6-93ab-0918515ecd56.png
-    https://cloud.githubusercontent.com/assets/754514/14509716/61ac6c8e-01d6-11e6-879f-8308883de790.png
+    http://www.cevinjohnny.top/assets/img/01.jpg
 {% endcapture %}
-{% include gallery images=images caption="Screenshots of Moon Theme" cols=2 %}
-
-See a [live version of Moon](http://taylantatli.github.io/Moon) hosted on GitHub.
-
-## Getting Started
-
-To learn how to install and use this theme check out the [Setup Guide](http://taylantatli.me/Moon/moon-theme/) for more information.
+{% include gallery images=images caption="The back of a code farmer" cols=2 %}
       
-[Install Moon](https://github.com/TaylanTatli/Moon){: .btn}
+[Read More](http://www.cevinjohnny.top/){: .btn}
